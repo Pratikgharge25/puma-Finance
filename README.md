@@ -56,19 +56,7 @@ Interactive Visualizations
 
 Custom UX enhancements
 
-📈 Insights Derived
 
-Clear comparison of country-wise sales contribution.
-
-Identification of top-performing products based on profit.
-
-Understanding seasonal trends in sales, profit, and discounts. 
-
-Segment-level and product-level drill-downs for deeper analysis.
-
-Uniform color theme
-
-Professional placement of KPIs and chart
 
 
 
