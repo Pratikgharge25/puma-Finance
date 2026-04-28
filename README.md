@@ -18,7 +18,7 @@ Product-wise Profit
 
 Monthly Trend Analysis
 
-It is built to help users explore financial patterns, identify high-performing areas, and understand overall business performance.
+It is built to help users explore financial patterns, identify high-performing areas, and understand overall business performance. 
 
 🧩 Key Features
 🔹 Dynamic Filters Panel
