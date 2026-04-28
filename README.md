@@ -68,7 +68,6 @@ Segment-level and product-level drill-downs for deeper analysis.
 
 Uniform color theme
 
-Professional placement of KPIs and chart
 
 
 
