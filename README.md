@@ -70,9 +70,6 @@ Uniform color theme
 
 Professional placement of KPIs and chart
 
-....
-
-
 
 
 
